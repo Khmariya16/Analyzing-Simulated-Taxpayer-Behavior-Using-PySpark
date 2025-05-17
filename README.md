@@ -8,7 +8,7 @@ This project analyzes and clusters simulated taxpayer profiles based on behavior
 
 - `Taxpayer_Clustering_PySpark.ipynb` – Jupyter notebook with complete PySpark code for preprocessing, clustering, and analysis.
 - `simulated_taxpayer_data.csv` – Sample dataset with 100 taxpayer records for testing and development.
-- `README.md` – Project overview and instructions.
+
 
 ---
 
